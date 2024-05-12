@@ -1,5 +1,7 @@
 <h2 align="left">Olá, sou a Vanessa Soares...</h2>
 
+# ![snake gif](https://github.com/V4n-Soar3s/V4n-Soar3s/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <p align="left">- 📚 Estudando atualmente Análise e Desenvolvimento de Sistemas <br>- 💻 Sou Analista de Suporte N1 - Mercadocar <br>- No momento estou estudando as linguagens de marcação abaixo:</p>
