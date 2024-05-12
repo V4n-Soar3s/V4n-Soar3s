@@ -23,10 +23,9 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+
+
 
 # ![snake gif](https://github.com/V4n-Soar3s/V4n-Soar3s/blob/output/github-contribution-grid-snake.gif)
