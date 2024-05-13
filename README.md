@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou a Vanessa Soares...</h2>
+<h2 align="left">Olá, eu sou a Vanessa Soares, apaixonada pela área de tecnologia e no mundo da programação desde 2023 ^^</h2>
 
 ###
 
