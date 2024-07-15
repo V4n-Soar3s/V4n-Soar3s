@@ -3,6 +3,7 @@
 ###
 
 <p align="left">
+  
   - 📚 Estudando atualmente Análise e Desenvolvimento de Sistemas <br>
   
   - 💻 Sou Analista de Suporte N1 - Mercadocar <br>
